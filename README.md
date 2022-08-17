@@ -9,3 +9,12 @@
 1. run `php artisan key:generate`
 
 Installation already done. Now you can run the project with `php artisan serve`
+
+Resto Sonic
+
+Database dalam folder misc
+
+Untuk login admin :
+
+username : admin
+Password : admin123

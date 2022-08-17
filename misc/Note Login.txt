@@ -1,2 +1,6 @@
+Resto Sonic
+
+Untuk login admin :
+
 username : admin
 Password : admin123
